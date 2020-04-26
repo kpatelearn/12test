@@ -1,13 +1,7 @@
-var userInput = document.querySelector("#userInput");
-var submit = document.querySelector("#submit");
-var botChat = document.querySelector("#botChat");
-var user = document.querySelector("#user");
-
-//GITHUB Testing
-
-//TESTING FROM Github - FROM - you hear me?
-
-//OMG ANOTHER TEST!!!!!
+const userInput = document.querySelector("#userInput");
+const submit = document.querySelector("#submit");
+const botChat = document.querySelector("#botChat");
+const user = document.querySelector("#user");
 
 submit.addEventListener("click", response);
 
