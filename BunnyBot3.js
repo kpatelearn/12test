@@ -5,6 +5,8 @@ var user = document.querySelector("#user");
 
 //GITHUB Testing
 
+//TESTING FROM Github - FROM - you hear me?
+
 submit.addEventListener("click", response);
 
 greetingList = ["Hello", "Hi", "Hey there", "Yo"];
