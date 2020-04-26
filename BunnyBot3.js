@@ -11,7 +11,7 @@ greeting = Math.floor(Math.random() * greetingList.length);
 
 function response() {
     while(botChat.textContent == "What is your name?") {
-        user.style.color = "red";
+        user.style.color = "blue";
         botChat.innerHTML = greetingList[greeting] + " " + userInput.value;
         user.innerHTML = userInput.value;
         setTimeout(() => {botChat.innerHTML = "Do you like chocolate? Y or N" }, 2000);;
