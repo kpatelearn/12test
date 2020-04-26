@@ -3,6 +3,8 @@ var submit = document.querySelector("#submit");
 var botChat = document.querySelector("#botChat");
 var user = document.querySelector("#user");
 
+//GITHUB Testing
+
 submit.addEventListener("click", response);
 
 greetingList = ["Hello", "Hi", "Hey there", "Yo"];
